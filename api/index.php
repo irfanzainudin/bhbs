@@ -166,7 +166,7 @@ switch ($view) {
   <!-- Bootstrap Icon -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
   <!-- Our own stylesheet -->
-  <link href="index.css" rel="stylesheet" />
+  <link href="main.css" rel="stylesheet" />
   <!-- From staff/ -->
   <link href="https://fonts.googleapis.com/css?family=Heebo:400,700|IBM+Plex+Sans:600" rel="stylesheet">
   <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
